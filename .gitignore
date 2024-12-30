@@ -1,0 +1,28 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+env/
+venv/
+ENV/
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Logs and runtime files
+*.log
+*.pid
+*.py~ 
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment files
+*.egg-info/
+.eggs/
